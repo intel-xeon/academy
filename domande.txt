@@ -1,0 +1,32 @@
+# RISPONDI ALLE DOMANDE
+
+- Seleziona tutti i campi di tutte le vendite di auto
+- Seleziona tutti i campi di  proprietari
+- Seleziona tutte le auto che hanno un prezzo inferiore a 30000€
+- Seleziona tutte le auto che hanno un prezzo maggiore a 30000€ e di colore 'Rosso'
+- Seleziona il prezzo delle auto in ordine crescente
+- Seleziona il prezzo delle auto in ordine decrescente
+- Seleziona il prezzo delle auto in ordine crescente ma limita il numero di righe a 10
+- Seleziona il prezzo delle auto in ordine decrescente ma limita il numero di righe a 3
+- Seleziona il numero di righe restituite nella tabella vendite_auto
+- Seleziona il numero di righe restituite nella tabella vendite_auto raggrubbato per marca
+- Seleziona il numero di righe restituite nella tabella vendite_auto raggrubbato per marca ordinato a tua scelta
+- Seleziona la marca dell'auto che ha avuto più vendite_auto
+- Seleziona il prezzo medio di tutte le auto
+- Seleziona marca e prezzo medio di tutte le auto con marca 'Chevrolet'
+- Seleziona marca e prezzo medio di tutte le auto con marca 'Chevrolet' e 'Subaru'
+- Seleziona il proprietario laddove l'id è uguale ad 1
+- Seleziona i nomi dei proprietari che inizia con la lettera 'L' o la lettera 'S'
+- Seleziona i nomi dei proprietari che contegono la lettera 'o'
+- Seleziona i nomi dei proprietari che NON contegono la lettera 'a'
+- Seleziona il nome del proprietario con l'ID più alto
+- Seleziona il nome del proprietario con l'ID più basso
+- Seleziona il nome e cognome della tabella dei proprietari e uniscili alla tabella vedite_auto con campi marca e modello
+- Fare la stessa query ma aggiungendo un campo all'unione della tabella vendite_auto
+- Fare la stessa query ma inserendo NULL al posto dei nomi delle colonne vendite auto
+- Seleziona il nome delle colonne della tabella vendite_auto
+- Seleziona il nome delle colonne con affianco ogni riga il nome della sua tabella della tabella proprietari
+- Unisci le due query selezionando sia il nome della tabella che il nome della colonna
+
+
+
